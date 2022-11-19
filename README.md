@@ -1,3 +1,3 @@
 Technostrelka 
 Задача проекта заключалась в создании симулятора уборщика в виртуальной реальности:
-https://drive.google.com/file/d/1tPQsMTfWV8edsGcXvGnBBxkwFaRCRH76/view?usp=share_link
+https://drive.google.com/drive/folders/1VRkkp3oIQ4oVLAyOfnAXcArTz66aXUzI?usp=share_link
